@@ -42,20 +42,21 @@ Uncheck Backdrops images to all user (User -> Display).
       
 # 💻 Screenshots
 
-- ### Login Page
-    ![Login_Page](https://github.com/prayag17/JellySkin/assets/55829513/9ca0d0c2-9ada-4e41-93b9-e4281be20d1d)
   
 - ### Home Screen
-    ![Home page](https://github.com/prayag17/JellySkin/assets/55829513/075d844b-ca43-4f61-b54a-cb75110e77ed)
+    ![Home page](https://github.com/abhishekdeyroy/jellyfin-theme-css/blob/main/img/Home%20Screen.png)
 
 - ### Library
-    ![Library](https://github.com/prayag17/JellySkin/assets/55829513/c3ef8e48-df17-44f0-9708-e10dfa448237)
+    ![Library](https://github.com/abhishekdeyroy/jellyfin-theme-css/blob/main/img/Library.png)
   
 - ### Title Screen
-    ![Title page](https://github.com/prayag17/JellySkin/assets/55829513/270bb0bb-a755-449d-a57d-9da4e31d6082)
+    ![Title page](https://github.com/abhishekdeyroy/jellyfin-theme-css/blob/main/img/Title%20Screen.png)
 
 - ### Episodes List
-    ![Episodes](https://github.com/prayag17/JellySkin/assets/55829513/eaded068-5930-47fd-b5d0-03cf89e1da44)
+    ![Episodes](https://github.com/abhishekdeyroy/jellyfin-theme-css/blob/main/img/Episodes%20List.png)
+
+- ### Setting Menu
+    ![Episodes](https://github.com/abhishekdeyroy/jellyfin-theme-css/blob/main/img/setting.png)
 
 # ❓ Common Problem Fixes
   If you don't do this the theme will simply not load (reverts back to default theme) and the browser console will spit out an error. Even if you paste in all the CSS, the font will still not load since it is loaded from a disallowed external source.
