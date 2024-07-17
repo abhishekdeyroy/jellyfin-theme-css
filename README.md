@@ -8,9 +8,10 @@
 
 This is my custom CSS for Jellyfin.
 
-1. Copy "mytheme" folder into the jellyfin themes directory (Jellyfin/Server/jellyfin-web/themes/)
+> [!IMPORTANT]
+> JellySkin requires Chrome (105 and above), Edge (105 and above), Safari (15.4 and above), Firefox (121 and above), Opera (91 and above) and any other Browser supporting Baseline 23 css features to work properly
 
-2. GO to Dashbosrd -> General -> Custom CSS code, and put this line: @import 'https://github.com/abhishekdeyroy/jellyfin-theme-css/blob/main/theme.css';
+- To use the JellySkin theme copy the line below into "Dashboard -> General -> Custom CSS" and click save, it will apply immediately server-wide to all users on top of any theme they may be using. To remove the theme, clear the "Custom CSS" field and then click save. <b>NOTE: Theme may not work when using Nginx Reverse Proxy. Scroll down below to learn how to fix this.
 
 3.Importan (cus this is a work in proggress)
 Select Dark theme of Jellyfin (This custom css work with it).
